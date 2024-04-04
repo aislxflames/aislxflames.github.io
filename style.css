@@ -58,15 +58,12 @@ h1{
 
 /*button align*/
 #button1{
-    position: absolute; /* Set the position to absolute */
-    bottom: 0; /* Align the button to the bottom */
-    left: 0; /* Align the button to the left */
-    margin: 300px 20px;
+    position: relevant; /* Set the position to absolute */
+    padding: 15px 30px; /* Add padding */
 }
 
 /*Button Degine*/
 #button1{
-    padding: 15px 30px; /* Add padding */
     border: none; /* Remove border */
     border-radius: 30px; /* Add rounded corners */
     background-image: linear-gradient(to right, #fa0000 0%, #fe5d00 100%); /* Add gradient background */
